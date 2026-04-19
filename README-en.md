@@ -13,7 +13,7 @@ Khankhulun
 </h1>
 
 <p align="center" style="font-size:16px; color:#38383a; font-weight:500;">
-🎓 High School Student | 🐎 Mongolian | 💻 Tech Explorer
+🎓 High School Student | 💻 Tech Explorer
 </p>
 
 <p align="center" style="font-size:14px; color:#86868b;">
