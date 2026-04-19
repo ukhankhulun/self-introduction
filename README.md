@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center" style="font-size:16px; color:#38383a; font-weight:500;">
-🎓 高中生 | 🐎 蒙古族 | 💻 技术探索者
+🎓 高中生 | 💻 技术探索者
 </p>
 
 <p align="center" style="font-size:14px; color:#86868b;">
