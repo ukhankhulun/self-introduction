@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/anime-girl-portrait.jpg" width="240" alt="Anime-style portrait placeholder">
+<img src="assets/anime-girl-portrait.jpg" width="240" alt="Illustration">
 
 <h1>Khankhulun</h1>
 
@@ -21,9 +21,9 @@
 
 ## 🧭 In one line
 
-Treat the world as a Turing machine: **input → process → output**.
+I like to break problems down into **input → process → output**, one step at a time.
 
-I take the breaking-apart seriously — then attach a cute sticker to whatever comes out.
+Take it apart carefully, then write the conclusion down.
 
 ## 👋 About me
 
@@ -34,7 +34,6 @@ I take the breaking-apart seriously — then attach a cute sticker to whatever c
 | Roles | High school student · terminal explorer · CS &amp; AI self-learner |
 | Location | Xilingol League, Inner Mongolia |
 | Currently | Learning Python, tinkering with Linux and soft routers, running a small MC server, writing a blog |
-| Tone | Soft and playful online (I'm a guy in real life, so don't get confused) |
 
 ## 🌱 My days
 
@@ -46,7 +45,7 @@ I take the breaking-apart seriously — then attach a cute sticker to whatever c
 
 > I'd rather not call "I studied it" as "I mastered it". All of the above is still in progress.
 
-## 🧠 Turing-flavored stack
+## 🧠 Tech stack
 
 | Area | Where I am | Note |
 | :-- | :-- | :-- |
@@ -54,24 +53,13 @@ I take the breaking-apart seriously — then attach a cute sticker to whatever c
 | 🐧 Linux | Basic daily use and testing | The terminal is the screen I know best |
 | 🌐 iStoreOS soft router | Light use, simple deployment | Write it down on the blog afterwards |
 | 🐋 AI / LLMs | User + curious observer | I ask "why did it answer that" |
-| 🧩 CS foundations | Turing machines, computability, halting problem | Still on the reading list |
+| 🧩 CS foundations | Starting from the basics | Still on the reading list |
 
 <p align="center">
-  <img src="assets/anime-girl-short-hair.jpg" width="260" alt="Anime girl">
+  <img src="assets/anime-girl-short-hair.jpg" width="260" alt="Illustration">
   <br>
-  <sub>Perfect companion for coding · anime level +1</sub>
+  <sub>Perfect companion for coding</sub>
 </p>
-
-## 🧩 About the "Turing" persona
-
-"Turing" here is an **online anime-style character setting**, not an academic biography, and not a claim to be an expert.
-
-- I like **logic**: split a thing into "input → process → output" and it finally feels calm.
-- I like **computable, explainable, reproducible** things: if you can't explain it, you don't really own it.
-- I like **terminal culture**: black screen, white text, one command, one honest result.
-- I stay suspicious of "magic": anything I can't explain becomes a hypothesis to verify.
-
-The soft, cute tone is **how I express myself**, not a gender setting. I'm a guy in real life — just so nobody gets confused.
 
 ## 🛠 What's running
 
@@ -108,12 +96,7 @@ MC friends are welcome — ask me anything; QQ group: `668529330`.
 | Blog | [blog.khulun.top](https://blog.khulun.top) |
 | QQ group | 668529330 |
 
-## 🍰 The anime side
-
-- Cute characters, clean art styles, slightly silly slice-of-life.
-- Memes and stickers, chosen with care: **funny, never crude**.
-- "Cute" and "serious" don't conflict: strict code, soft words.
-- No invented experience, no fake numbers: know it or don't.
+No invented experience, no fake numbers: know it or don't.
 
 ## 🥚 Easter egg
 
@@ -121,15 +104,15 @@ MC friends are welcome — ask me anything; QQ group: `668529330`.
 $ whoami
 khankhulun
 
-$ sudo apt install anime
+$ sudo apt install inspiration
 Reading package lists... Done
-E: Unable to locate package anime
+E: Unable to locate package inspiration
 
 $ echo "fine, I'll write my own" > /dev/null
 ```
 
 > "Will this loop ever halt?"
-> — Turing says: relax, write a test first.
+> — Relax, write a test first.
 
 ## 🖼 Image credits
 
@@ -139,7 +122,7 @@ $ echo "fine, I'll write my own" > /dev/null
 
 <div align="center">
 
-<img src="assets/anime-girl-twintails.jpg" width="140" alt="Anime girl">
+<img src="assets/anime-girl-twintails.jpg" width="140" alt="Illustration">
 
 <p>┊ Thanks for visiting ┊</p>
 
